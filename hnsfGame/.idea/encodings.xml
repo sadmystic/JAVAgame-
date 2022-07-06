@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../../../../IDEA/spring_redis/spring_redis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/tedu/element/ElementObj.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/tedu/element/Play.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/tedu/game/GameStart.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/tedu/manager/ElementManager.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/tedu/manager/GameElement.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/tedu/show/GameJFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/tedu/show/GameMainJPanel.java" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
